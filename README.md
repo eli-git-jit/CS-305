@@ -1,5 +1,7 @@
 # CS-305
 
+---
+
 - Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
 
 Artemis Financial is a financial consulting company. They wanted to improve the security of their web application by adding secure communication methods and ensuring the integrity of transferred data through a checksum verification process.
@@ -39,3 +41,5 @@ The dependency-check tool and the SHA-256 hash algorithm were valuable resources
 - Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
 
 I would show employers my work on refactoring the code to comply with security protocols, specifically implementing secure communications using HTTPS and ensuring data integrity with checksum verification.
+
+---
